@@ -1,0 +1,6 @@
+log.lua
+logs/*
+log/*
+*.log
+
+.env
